@@ -4,4 +4,4 @@
 2. Люблю французских бульдогов
 3. ...и вино
 
-![the dog]https://i.pinimg.com/originals/85/14/db/8514db274ba73bb415425ac1f1b480b1.jpg
+![dog](https://github.com/Avestacy/About-me/assets/162714486/e586e967-a631-4618-b60f-e2b70b847bd2)
